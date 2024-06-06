@@ -47,7 +47,7 @@ Contributions are welcome! If you'd like to add new features, improve existing o
 
 For any inquiries or suggestions, please contact:
 
-- [Your Name](mailto:amitrajkarmakar29@gmail.com)
+- [GitHub](mailto:amitrajkarmakar29@gmail.com)
 
 ## Acknowledgements
 
